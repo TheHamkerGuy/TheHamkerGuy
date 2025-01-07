@@ -5,7 +5,7 @@
 <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/6178475daf930a5d0c3666476ccab73e8dbdc7e5/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ashmit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) [![Gmail Badge](https://img.shields.io/badge/-TheHamkerGuy@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:TheHamkerGuy@gmail.com)](mailto:TheHamkerGuy@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheHamkerGuy" alt="TheHamkerGuy" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
