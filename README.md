@@ -22,7 +22,7 @@
  <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/6178475daf930a5d0c3666476ccab73e8dbdc7e5/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/android.svg' height='40'/>  <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/android.svg' height='40'/>  <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/django.svg' height='40'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/flask.png' width='30'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/git.svg' width='30'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/nodejs.svg' width='33'/> <img src = 'https://github.com/TheHamkerGuy/TheHamkerGuy/blob/9ad004148e3100440b42871fa1baa31b679794bb/images/react.svg' width='33'/>
  
  ## Who am I?
  ```python
@@ -49,5 +49,4 @@
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Ashmit's github stats](https://github-readme-stats.vercel.app/api?username=TheHamkerGuy&show_icons=true&hide=[%22issues%22])
- 
- 
+
