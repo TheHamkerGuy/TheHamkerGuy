@@ -42,10 +42,9 @@
  
 ## Current Works
  * Breaking into Cybersec !!
- * I'm currently working on ðŸ”­ building **Frontend Websites** and working up on polishing my skills ðŸŒ± in **Competitive Programming**.
+ * I'm currently working on­ building **Frontend Websites** and working up on polishing my skills in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume]()
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Ashmit's github stats](https://github-readme-stats.vercel.app/api?username=TheHamkerGuy&show_icons=true&hide=[%22issues%22])
